@@ -19,6 +19,7 @@
         <module>objectmapper</module>
         <module>json-date</module>
         <module>json-collection</module>
+        <module>spring-boot-jackson</module>
     </modules>
     <properties>
         <java.version>17</java.version>
